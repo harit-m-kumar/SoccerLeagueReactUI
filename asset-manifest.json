@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SoccerLeagueReactUI/static/css/main.abd64e84.css",
+    "main.js": "/SoccerLeagueReactUI/static/js/main.f7c81df5.js",
+    "static/js/787.2f1b18d3.chunk.js": "/SoccerLeagueReactUI/static/js/787.2f1b18d3.chunk.js",
+    "index.html": "/SoccerLeagueReactUI/index.html",
+    "main.abd64e84.css.map": "/SoccerLeagueReactUI/static/css/main.abd64e84.css.map",
+    "main.f7c81df5.js.map": "/SoccerLeagueReactUI/static/js/main.f7c81df5.js.map",
+    "787.2f1b18d3.chunk.js.map": "/SoccerLeagueReactUI/static/js/787.2f1b18d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.f7c81df5.js"
+  ]
+}
